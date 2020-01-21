@@ -123,11 +123,18 @@ Did in UNity without writing down...
 =============================================================================================================================
 Boss Fight
 
-As your enter its lair, the boss swings its axe at your. You manage to dodge the first attack by dropping to your knees. You can feel the force behind the swing and realize one false move could mean the end. Quickly, you get on your feet again. Stepping back you see a towering figure standing close by. The figure is standing in the way of a brazier and you are able to make the outline of a minotaur. It rears back as if about to charge...
-	- Try to pierce the boss (UP) (deathscene)
+As you enter its lair, the boss swings its axe at you. You manage to dodge the first attack by dropping to your knees. You can feel the force behind the swing and realize one false move could mean the end. Quickly, you get on your feet again. Stepping back you see a towering figure standing close by. The figure is standing in the way of a brazier and you are able to make the outline of a minotaur. It rears back as if about to charge...
+	- Try to pierce the boss (UP) (Part1Stand)
 	- Dodge left (Left) (Part1)
 	- Dodge right (Right) (Part1)
-	- Stand your ground with your sword (Down) (deathscene)
+	- Stand your ground with your sword (Down) (Part1Stand)
+==============================================================================================================================
+Part1Stand
+As the minoaur charges toward you, you pull out your sword and start to yell. When it is about in range, it grabs your sword and throws it to the side. You get stuck on the wall with its head keeping you there. As the minotaur backs up, you drop to the ground feelign a whole in your left shoudler. You black out...
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1
 It charges at you but you manage to dodge it. The wall cracks and the minotaur seems to be stuck. Its horns went into the wall and it is trying to shake loose...
@@ -165,76 +172,76 @@ While the boss is stuck in the wall, you slice at its legs. The boss lets out a 
 	- Back up and parry (Down) (Part1LowBack)
 ==============================================================================================================================
 Part1LowBack
-As the minotaur swings his axe, you back up hoping to dodge it. Quickly you drop to your knees realizing you cannot dodge it in time. You sword fallas out of your hand and the mintotaur steps on it as its axe collides with the wall. It picks up your word and points it towards you. You feel the cold metal against your neck as you begin to black out...
+As the minotaur swings his axe, you back up hoping to dodge it. Quickly you drop to your knees realizing you cannot dodge it in time. You sword falls out of your hand and the mintotaur steps on it as its axe collides with the wall. It picks up your sword and points it towards you. You feel the cold metal against your neck as you begin to black out...
 	- Accept your fate (Up) (death)
 	- Accept your fate (Left) (death)
 	- Accept your fate (Right) (death)
 	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1LowDodge
-As your dodge, your realize your cannot get out of its way. You get struck by the axe above the hip. You are sent to the wall with a great wound. You look down to your side reachign for your wound. pulling back your hand, all your can see is red. You look up to see the minotaur stumbling towards your. You black out....
+As you dodge, you realize you cannot get out of its way. You get struck by the axe above the hip. You are sent to the wall with a great wound. You look down to your side reaching for your wound. pulling back your hand, all you can see is red. You look up to see the minotaur stumbling towards you. You black out....
 	- Accept your fate (Up) (death)
 	- Accept your fate (Left) (death)
 	- Accept your fate (Right) (death)
 	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1LowBlock
-As the axe swings across your body, your stick up your sword in hopes to block it. The axe hits the wall breaking your sword in half. Its axe seems to be stuck in the wall for now...
+As the axe swings across your body, you stick up your sword in hopes to block it. The axe hits the wall breaking your sword in half. Its axe seems to be stuck in the wall for now...
 	- Charge the boss (Up) (Part1LowBlockLowStab)
 	- Slice low (Left) (Part1LowBlockLow)
 	- Slice high (Right) (Part1High)
 	- Pick up the other half of your sword (Down) (Part1LowBlockPickup)
 ==============================================================================================================================
 Part1LowBlockPickup
-You go to pick up your other half of the sword. You tyourn around realizing the minotaur is stills truggling to retrieve his axe from the wall...
+You go to pick up your other half of the sword. You turn around realizing the minotaur is still struggling to retrieve his axe from the wall...
 	- Charge and slice high (Up) (Part1High)
 	- Charge and slice low (Left) (Part1LowBlockLow)
 	- Run for the exit (Right) (Part1LowBlockPickupRun)
 	- Charge to stab the boss (Down) (Part1LowBlockLowStab)
 ==============================================================================================================================
 Part1LowBlockPickupRun
-You rush to make your way to the exit. Out of fear your close your eyes for a second. Running your open them again. Yous top in shear terror when your realize the minotaur is towering of your. You cannot look away from his eye but your see his arms beign to move. Feeling pressyoure on your body your black out...
+You rush to make your way to the exit. Out of fear you close your eyes for a second. Running,you open them again. You stop in shear terror when you realize the minotaur is towering of you. You cannot look away from his eye but you see his arms begin to move. Feeling pressure on your body you black out...
 	- Accept your fate (Up) (death)
 	- Accept your fate (Left) (death)
 	- Accept your fate (Right) (death)
 	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1High
-As your slice your sword down on the minotaur. It lets go of its axe and grabs your sword midstroke. You panically look it in the eyes. He yanks your sword from your and throws your to the ground. "HAHAHAHA! You fool." it remarks. It begins to set up its axe to your neck. You black out....
+As you slice your sword down on the minotaur. It lets go of its axe and grabs your sword midstroke. You panically look it in the eyes. He yanks your sword from your and throws you to the ground. "HAHAHAHA! You fool." it remarks. It begins to set up its axe to your neck. You black out....
 	- Accept your fate (Up) (death)
 	- Accept your fate (Left) (death)
 	- Accept your fate (Right) (death)
 	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1LowBlockLow
-You dash past the minotaur as your slice its legs once again. Creating more open wounds on the boss's legs make it roar again. Yanking its axe back out of the wall, your notice the minotaur is strugling to stay standing. 
+You dash past the minotaur as you slice its legs once again. Creating more open wounds on the boss's legs make it roar again. Yanking its axe back out of the wall, you notice the minotaur is strugling to stay standing. 
 	- Finish the boss with a stab (Up) (Part1LowBlockLowStab)
 	- Wait for the boss to attack (Left) (Part1LowBlockLowWait)
 	- Rush the boss (Right) (Part1LowBlockLowStab)
 	- Try and get behind the boss (Down) (Part1LowBlockLowBehind)
 ==============================================================================================================================
 Part1LowBlockLowBehind
-As your rush to get past the stabalizing minotaur, he tosses its axe in your direction. Unable to react in time, your get hit and knocked down by the axe. The minotaur makes its way over to your as your struggle to gain full contorl of yourself. Through your blyourry vision, your see a giant hand heading to grasp your head. You black out...
+As you rush to get past the stabalizing minotaur, he tosses its axe in your direction. Unable to react in time, you get hit and knocked down by the axe. The minotaur makes its way over to you as you struggle to gain full contorl of yourself. Through your blurry vision, you see a giant hand heading to grasp your head. You black out...
 	- Accept your fate (Up) (death)
 	- Accept your fate (Left) (death)
 	- Accept your fate (Right) (death)
 	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1LowBlockLowStab
-You begin to charge forward in hopes to stab the minotaur. When your are within its reach, he grabs your by the arm and slams your to the ground. "Nice try. Hah. Unfortunate your charged me." it remarks. It begins to set up its axe to your neck. You black out....
+You begin to charge forward in hopes to stab the minotaur. When you are within its reach, he grabs you by the arm and slams you to the ground. "Nice try. Hah. Unfortunate you charged me." it remarks. It begins to set up its axe to your neck. You black out....
 	- Accept your fate (Up) (death)
 	- Accept your fate (Left) (death)
 	- Accept your fate (Right) (death)
 	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1LowBlockLowWait
-The boss steadies itsleft and gains its balance back. It begins to charge. You stand in fear as your lock eyes with it. Its axe goes up into the air as it gets close and closer. Ina  blink of an eye, the axe drops to the ground and the minotaur falls on the ground inches from your feet.
+The boss steadies itsleft and gains its balance back. It begins to charge. You stand in fear as you lock eyes with it. Its axe goes up into the air as it gets close and closer. Ina  blink of an eye, the axe drops to the ground and the minotaur falls on the ground inches from your feet.
 	- Finish the boss (Up) (Part1Victory)
 	- Finish the boss (Left) (Part1Victory)
 	- Finish the boss (Right) (Part1Victory)
 	- Finish the boss (Down) (Part1Victory)
 ==============================================================================================================================
 Part1Victory
-After finishing the boss off, your pick up the other half of your sword. The fire from the brazier is starting to dim. You take one last look at the room and sigh in relief. It is finally over. You beat eh dungeon.
+After finishing the boss off, you pick up the other half of your sword. The fire from the brazier is starting to dim. You take one last look at the room and sigh in relief. It is finally over. You beat eh dungeon.
 	- Again? (Y) (StoryStartPoint)
 	- Nope! (N) (Introduction)
