@@ -133,8 +133,29 @@ Part1
 It charges at you but you manage to dodge it. The wall cracks and the minotaur seems to be stuck. Its horns went into the wall and it is trying to shake loose...
 	- Slice the boss high (Up) (Part1High)
 	- Slice the boss low (Left) (Part1Low)
-	- Slice the boss mid (Right) (deathscene)
-	- Back up and wait (Down) (deathscene)
+	- Slice the boss mid (Right) (Part1Mid)
+	- Back up and wait (Down) (Part1Back)
+==============================================================================================================================
+Part1Back
+The minotaur finally shakes loose from the wall. It picks up its axe and heads towards you dragging its axe. It raises tis axe as it is getting in range of you...
+	- Back up and parry (Up) (Part1LowBack)
+	- Dodge left (Left) (Part1LowDodge)
+	- Dodge right (Right) (Part1LowDodge)
+	- Back up more (Down) (Part1BackBack)
+==============================================================================================================================
+Part1BackBack
+You back up hitting the wall. Out of room, you begin to panic. As you are panically looking around, the minotaur swings his axe down on you. You feel a sahrp pain and black out...
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1Mid	
+When you swing your sword into the minotaur's side, it becomes lodged in there. The minotaur gets loose from the wall and looks down on you. You forcefully try and pull your sword out with all of your might. The minotaur grabs your forearm and lifts you off the ground. He rears back his head and slams it foreward. You black out....
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
 ==============================================================================================================================
 Part1Low
 While the boss is stuck in the wall, you slice at its legs. The boss lets out a numbing roar as its legs gets cut. It gets out of the wall and turns towards you. You notice a flicker of metal as the axe swings towards you...
