@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: LosingFinal
+  m_EditorClassIdentifier: 
+  storyText: "As the serpants mouth clsoes in on your sword, you cut its mouth open.
+    It lets out a shreik as you feel its body get heavy on your arm. Your arm. You
+    look at your arm, realizing its teeth pierced your forearm. You look back at the
+    gate reaching for it. Your vision starts to fade...\n\t- Accept your fate (Up)\n\t-
+    Accept your fate (Right)\n\t- Accept your fate (Left)\n\t- Accept your fate (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}

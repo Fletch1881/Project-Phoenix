@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Vicotry1.1
+  m_EditorClassIdentifier: 
+  storyText: "You draw your sword and slice it towards the head of the serpant. The
+    serpent backs up and swings its tail towarsd you.\n\t- Charge the serpent (Up)\n\t-
+    Jump the tail (Left)\n\t- Slice right (Right)\n\t- Grab the tail (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 132eb569c6884c445803d5d26e00ad79, type: 2}
+  - {fileID: 11400000, guid: fe017c89580eb7c42b91409d1dec7eae, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}

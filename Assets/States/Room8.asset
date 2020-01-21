@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Room8
+  m_EditorClassIdentifier: 
+  storyText: "Passing through the door, you can see a metal gate that used to block
+    a passageway. Its been busted down from the inside. You cautiosly approach it.\r\n\t\t-
+    Go Up (Mini Boss)\r\n\t\t- Go Down (R7 entering from the right)"
+  nextStates:
+  - {fileID: 11400000, guid: 98efed949d48de54fa9aef3f5b634db4, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 4a022cd78e4053a4fabcfb7c507a6fe2, type: 2}

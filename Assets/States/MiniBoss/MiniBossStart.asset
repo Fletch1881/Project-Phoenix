@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: MiniBossStart
+  m_EditorClassIdentifier: 
+  storyText: "You walk into the gated area to realize it was a cell. The clanking
+    of a chain draws your attention to the right. You hear no footsteps but can sense
+    something moving...slithering... As you slowly look back behind you, the creature
+    leaps from the darkness...\n\t- Block with your arm (Up)\n\t- Dodge left (Left)\n\t-
+    Dodge right (right)\n\t- Run towards the gate (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 06d948731fe14b146a52e0555e9ad142, type: 2}
+  - {fileID: 11400000, guid: 8a4505d9c39dd394ea84f43a183a8e86, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: f829f2841ddb595438ffd06c259387db, type: 2}

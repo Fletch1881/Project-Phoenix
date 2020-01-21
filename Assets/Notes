@@ -1,0 +1,219 @@
+Text Adventyoure
+
+WHat is the theme?
+What image sums it up? 
+Who is the player?
+What is the goal?
+
+
+Quest to find and beat the boss
+
+Starting Room
+	The Boss is laughing maniacally. He states,"Come and find me if your can, little one." The Boss then snaps its fingers and your are sent to a dark room. Groaning noises fill the air. Light from 4 braziers start to fill the room. You see a corridor in front of your. 
+	 - Go Up (R1)
+============================================================================================================================ 
+R1
+	After going through the corridor, your enter a room with strange sight. A gold plated door is glimmering to the right. You notice another door that was straight ahead of the corridor.
+	 - Go Right (Boss Door/Need Key) (R9)
+	 - Go Up (Try the door) (R2)
+R1 Entering from the top
+	After going through the door, your enter a room with strange sight. A gold plated door is glimmering to the left. You notice a corridor that was straight ahead of the door your just came from.
+	 - Go Left (Boss Door/Need Key) (R9)
+	 - Go Up (Try the door) (R2)
+=============================================================================================================================
+R2
+	Foyour doors are in tits room. One on each side of the room, including the one your came through. The door on the right has a silver padlock on it. It seems like it needs a silver key to unlock it.  
+		- Go Up (Trap Room) (R12)
+		- Go Left (R3)
+		- Go Right (Need Key) (R7)
+		- Go Down (R1 Entering from the top)
+R2 Entering from the top
+		Foyour doors are in tits room. One on each side of the room, including the one your came through. The door on the left has a silver padlock on it. It seems like it needs a silver key to unlock it. 
+		- Go Up (R1 Entering from the top)
+		- Go Left (Need Key) (R7)
+		- Go Right (R3)
+		- Go Down (R12)
+R2 Entering from the left
+		Foyour doors are in tits room. One on each side of the room, including the one your came through. The door on the infron of your has a silver padlock on it. It seems like it needs a silver key to unlock it. 
+		- Go Up (Need Key) (R7)
+		- Go Left (R12)
+		- Go Right (R1 entering from top)
+		- Go Down (R3)
+R2 Entering from the right
+	Foyour doors are in tits room. One on each side of the room, including the one your came through. 
+		- Go Up (R3)
+		- Go Left (R1 enterign from top)
+		- Go Right (R12)
+		- Go Down (R7) (already has key)
+=============================================================================================================================
+R3
+	You notice a doorway to the right and in front of your. However, the doorway in front of your has been blocked off by fallen rubble of rock. 
+		- Go Right (R4)
+		- Go Down (R2 entering from the left) 
+R3 entering from the top
+	You notice a doorway to the right and to the left. However, the doorway to the right has been blocked off by fallen rubble of rock. 
+		- Go Left (R2 entering from the left)
+		- Go Down (R4)
+=============================================================================================================================
+R4
+	Through the doorway is a cooridor lined with tilted paintings. A torn rug leads forward until your see a bright twinkling light in the distance. 
+		- Go Up (R5)
+		- Go Down (R3 entering from the top)
+R4 entering from the top	
+	Walking along the torn rug, your see the doorway more clearly now. 
+		- Go Up (R3 entering from the top)
+		- Go Down (R5)
+=============================================================================================================================
+R5
+	The light is getting brighter as your are walking towards it. You are beginning to make out the outline of a door frame ahead of your. 
+		- Go Up (R6)
+		- Go Down (R4 entering from the top)
+R5 entering from the top
+	After passign through the door frame, your hear the laugh of the Boss. A dark ayoura fills the dungeon. You hear a loud banging. Chills go down your body. You take a deep breath and start walking again.
+		- Go Up (R4 entering from the top)
+		- Go Down (R6)
+=============================================================================================================================
+R6
+	After passing through the door frame, your begin to see the outline of a key sitting upon a pedistal. The room is filled with bookcases and tables. In the middle of the room, a pedistal holds the silver key.
+		- Take Key and Go Down (R5 entering from the top) (Aquired key)
+=============================================================================================================================
+R7
+	After unlocking the door and passing through, your come to a room with what look like tree saplings and braziers. There is a door in front of your with a message on the wall next to it. You try to open the door but it is locked. There are stones scattered over the ground with single letters on them. You think that reading the message on the wall could help.
+	 - Read message (R7 puzzle)
+	 - Go Down (R2 entering from the right)
+R7 puzzle
+	It reads "I am forgotten easily. My name cannot be remembered. From bitter to sweet. Coffee to cream. Italian sweet tree. I am _ _ _ _ _ _ _?" (affagato)
+	 - Enter Name (R8)
+	 - Go Down (R2 entering from the right)
+R7 entering from the right
+	The boss' laughter is growing now.
+		- Go Up (R2 entering from the right)
+		- Go Down (R8)
+=============================================================================================================================
+R8
+	Passing through the door, your can see a metal that used to block a passageway. Its been busted down from the inside. You cautiosly approach it.
+		- Go Up (Mini Boss)
+		- Go Down (R7 entering from the right)
+R8 entering from the right
+	The boss begins to laugh again. Fog fills the room. Through the doorway in front of your, your see a small amount of light from the braziers. 
+		- Go Up (R7 entering from the right)
+=============================================================================================================================
+R9	
+	After unlocking the door, your hear the boss yell, "You came here for nothing, little one. Tyourn back while your can!" His laughter fills the air after its exclamation. After walking into the room, the door behind your slams shut. You try to open it again to no avial. The room has only one other door. 
+	 - Go Up (R10)
+=============================================================================================================================
+R10	
+	Through the doorway was a staircase. At the bottom is a doorway with fog and dark green glow seeping out of it.
+		- Go Up (R11)
+=============================================================================================================================
+R11	
+	After making it to the bottom, your reach for the door. Opening it reveals a tunnel from which the fog and glow are coming from. "Don't be scared, chosen one. FACE ME!!!", the boss shouted. 
+		- Go Up (Boss)
+=============================================================================================================================
+R12
+	You open the door up to hear a whipping sound.
+		-Go Up (Die)
+		-Go Down (R2 entering from the top)
+=============================================================================================================================
+=============================================================================================================================
+MINI BOSS FIGHT
+
+Did in UNity without writing down...
+=============================================================================================================================
+=============================================================================================================================
+Boss Fight
+
+As your enter its lair, the boss swings its axe at your. You manage to dodge the first attack by dropping to your knees. You can feel the force behind the swing and realize one false move could mean the end. Quickly, you get on your feet again. Stepping back you see a towering figure standing close by. The figure is standing in the way of a brazier and you are able to make the outline of a minotaur. It rears back as if about to charge...
+	- Try to pierce the boss (UP) (deathscene)
+	- Dodge left (Left) (Part1)
+	- Dodge right (Right) (Part1)
+	- Stand your ground with your sword (Down) (deathscene)
+==============================================================================================================================
+Part1
+It charges at you but you manage to dodge it. The wall cracks and the minotaur seems to be stuck. Its horns went into the wall and it is trying to shake loose...
+	- Slice the boss high (Up) (Part1High)
+	- Slice the boss low (Left) (Part1Low)
+	- Slice the boss mid (Right) (deathscene)
+	- Back up and wait (Down) (deathscene)
+==============================================================================================================================
+Part1Low
+While the boss is stuck in the wall, you slice at its legs. The boss lets out a numbing roar as its legs gets cut. It gets out of the wall and turns towards you. You notice a flicker of metal as the axe swings towards you...
+	- Block the axe with your sword (Up) (Part1LowBlock)
+	- Dodge left (Left) (death) (Part1LowDodge)
+	- Dodge right (Right) (death) (Part1LowDodge)
+	- Back up and parry (Down) (Part1LowBack)
+==============================================================================================================================
+Part1LowBack
+As the minotaur swings his axe, you back up hoping to dodge it. Quickly you drop to your knees realizing you cannot dodge it in time. You sword fallas out of your hand and the mintotaur steps on it as its axe collides with the wall. It picks up your word and points it towards you. You feel the cold metal against your neck as you begin to black out...
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1LowDodge
+As your dodge, your realize your cannot get out of its way. You get struck by the axe above the hip. You are sent to the wall with a great wound. You look down to your side reachign for your wound. pulling back your hand, all your can see is red. You look up to see the minotaur stumbling towards your. You black out....
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1LowBlock
+As the axe swings across your body, your stick up your sword in hopes to block it. The axe hits the wall breaking your sword in half. Its axe seems to be stuck in the wall for now...
+	- Charge the boss (Up) (Part1LowBlockLowStab)
+	- Slice low (Left) (Part1LowBlockLow)
+	- Slice high (Right) (Part1High)
+	- Pick up the other half of your sword (Down) (Part1LowBlockPickup)
+==============================================================================================================================
+Part1LowBlockPickup
+You go to pick up your other half of the sword. You tyourn around realizing the minotaur is stills truggling to retrieve his axe from the wall...
+	- Charge and slice high (Up) (Part1High)
+	- Charge and slice low (Left) (Part1LowBlockLow)
+	- Run for the exit (Right) (Part1LowBlockPickupRun)
+	- Charge to stab the boss (Down) (Part1LowBlockLowStab)
+==============================================================================================================================
+Part1LowBlockPickupRun
+You rush to make your way to the exit. Out of fear your close your eyes for a second. Running your open them again. Yous top in shear terror when your realize the minotaur is towering of your. You cannot look away from his eye but your see his arms beign to move. Feeling pressyoure on your body your black out...
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1High
+As your slice your sword down on the minotaur. It lets go of its axe and grabs your sword midstroke. You panically look it in the eyes. He yanks your sword from your and throws your to the ground. "HAHAHAHA! You fool." it remarks. It begins to set up its axe to your neck. You black out....
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1LowBlockLow
+You dash past the minotaur as your slice its legs once again. Creating more open wounds on the boss's legs make it roar again. Yanking its axe back out of the wall, your notice the minotaur is strugling to stay standing. 
+	- Finish the boss with a stab (Up) (Part1LowBlockLowStab)
+	- Wait for the boss to attack (Left) (Part1LowBlockLowWait)
+	- Rush the boss (Right) (Part1LowBlockLowStab)
+	- Try and get behind the boss (Down) (Part1LowBlockLowBehind)
+==============================================================================================================================
+Part1LowBlockLowBehind
+As your rush to get past the stabalizing minotaur, he tosses its axe in your direction. Unable to react in time, your get hit and knocked down by the axe. The minotaur makes its way over to your as your struggle to gain full contorl of yourself. Through your blyourry vision, your see a giant hand heading to grasp your head. You black out...
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1LowBlockLowStab
+You begin to charge forward in hopes to stab the minotaur. When your are within its reach, he grabs your by the arm and slams your to the ground. "Nice try. Hah. Unfortunate your charged me." it remarks. It begins to set up its axe to your neck. You black out....
+	- Accept your fate (Up) (death)
+	- Accept your fate (Left) (death)
+	- Accept your fate (Right) (death)
+	- Accept your fate (Down) (death)
+==============================================================================================================================
+Part1LowBlockLowWait
+The boss steadies itsleft and gains its balance back. It begins to charge. You stand in fear as your lock eyes with it. Its axe goes up into the air as it gets close and closer. Ina  blink of an eye, the axe drops to the ground and the minotaur falls on the ground inches from your feet.
+	- Finish the boss (Up) (Part1Victory)
+	- Finish the boss (Left) (Part1Victory)
+	- Finish the boss (Right) (Part1Victory)
+	- Finish the boss (Down) (Part1Victory)
+==============================================================================================================================
+Part1Victory
+After finishing the boss off, your pick up the other half of your sword. The fire from the brazier is starting to dim. You take one last look at the room and sigh in relief. It is finally over. You beat eh dungeon.
+	- Again? (Y) (StoryStartPoint)
+	- Nope! (N) (Introduction)

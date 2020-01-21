@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Vicotry2.1
+  m_EditorClassIdentifier: 
+  storyText: "You draw your sword and try to stab the serpent. You miss the tail as
+    it quickly draws in its tail. The serpent lashes its tail at you. \n\t- Run towards
+    the gate (Up)\n\t- Slice the tail (Left)\n\t- Jump the tail (Right)\n\t- Accept
+    your fate (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: f829f2841ddb595438ffd06c259387db, type: 2}
+  - {fileID: 11400000, guid: fe017c89580eb7c42b91409d1dec7eae, type: 2}
+  - {fileID: 11400000, guid: 132eb569c6884c445803d5d26e00ad79, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}

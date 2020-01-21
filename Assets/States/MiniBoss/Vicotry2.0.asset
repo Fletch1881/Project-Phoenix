@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Vicotry2.0
+  m_EditorClassIdentifier: 
+  storyText: "You dodge the serpent's attack watchign its body cross before you. \n\t-
+    Draw your sword and slice (Up)\n\t- Draw your sword and stab (Left)\n\t- Grab
+    its tail (Right)\n\t- Run towards the gate (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: fe017c89580eb7c42b91409d1dec7eae, type: 2}
+  - {fileID: 11400000, guid: 8f1ec2da6c0d42d44ac16643e500c16e, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: f829f2841ddb595438ffd06c259387db, type: 2}

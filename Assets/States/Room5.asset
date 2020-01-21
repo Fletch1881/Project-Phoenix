@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Room5
+  m_EditorClassIdentifier: 
+  storyText: "The light is getting brighter as you are walking towards it. You are
+    beginning to make out the outline of a door frame ahead of you. \r\n\t\t- Go Up
+    (R6)\r\n\t\t- Go Down (R4 entering from the top)"
+  nextStates:
+  - {fileID: 11400000, guid: ae5d1b72847b1cc45a5baf83f2ee8fcc, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 4f67afc03d4a85e45b12e9e983a17ee7, type: 2}
