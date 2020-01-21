@@ -1,0 +1,50 @@
+Boss Fight
+
+As you enter its lair, the boss swings its axe at you. You manage to dodge the first attack by dropping to your knees. You can feel the force behind the swing and realize one false move could mean the end. Quickly, you get on your feet again. Stepping back you see a towering figure standing close by. The figure is standin gin the way of a brazier and you are able to make the outline of a minotaur. It rears back as if about to charge...
+	- Try to pierce the boss (UP)
+	- Dodge left (Left) (Part1)
+	- Dodge right (Right) (Part1)
+	- Stand your ground with your sword (Down)
+==============================================================================================================================
+Part1
+It charges at you but you manage to dodge it. The wall cracks and the minotaur seems to be stuck. Its horns went into the wall and it is trying to shake loose...
+	- Slice the boss high (Up) (Part1High)
+	- Slice the boss low (Left) (Part1Low)
+	- Slice the boss mid (Right)
+	- Back up and wait (Down)
+==============================================================================================================================
+Part1Low
+While the boss is stuck in the wall, you slice at its legs. The boss lets out a numbing roar as its legs gets cut. It gets out of the wall and turns towards you. You notice a flicker of metal as the axe swings towards you...
+	- Block the axe with your sword (Up) (Part1LowBlock)
+	- Dodge left (Left) (death)
+	- Dodge right (Right) (death)
+	- Back up and parry (Down)
+==============================================================================================================================
+Part1LowBlock
+As the axe swings across your body, you stick up your sword in hopes to block it. The axe hits the wall breaking your sword in half. Its axe seems to be stuck in the wall for now...
+	- Charge the boss (Up)
+	- Slice low (Left)
+	- Slice high (Right) (Part1High)
+	- Pick up the other half of your sword (Down)
+==============================================================================================================================
+Part1High
+Death scene
+==============================================================================================================================
+Part1LowBlockLow
+ You dash past the minotaur as you slice its legs once again. Creating more open wounds on the boss's legs make it roar again. Yanking its axe back out of the wall, you notice the minotaur is strugling to stay standing. 
+	- Finish the boss with a stab (Up) (death Scene)
+	- Wait for the boss to attack (Left) (Part1LowBlockLowWait)
+	- Rush the boss (Right)
+	- Try and get behind the boss (Down)
+==============================================================================================================================
+Part1LowBlockLowWait
+The boss steadies itsleft and gains its balance back. It begins to charge. You stand in fear as you lock eyes with it. Its axe goes up into the air as it gets close and closer. Ina  blink of an eye, the axe drops to the ground and the minotaur falls on the ground inches from your feet.
+	- Finish the boss (Up)
+	- Finish the boss (Left)
+	- Finish the boss (Right)
+	- Finish the boss (Down)
+==============================================================================================================================
+Part1Victory
+After finishing the boss off, you pick up the other half of your sword. The fire from the brazier is starting to dim. You take one last look at the room and sigh in relief. It is finally over. You beat eh dungeon.
+	- Again?
+	- Nope!
