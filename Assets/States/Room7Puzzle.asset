@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room7Puzzle
   m_EditorClassIdentifier: 
   storyText: "\"My name cannot be remembered. From bitter to sweet. Coffee to cream.
-    Italian sweet tree. I am _ _ _ _ _ _ _?\" (affagato)\r\n\t- affagato (Up)\n\t-
-    hickory (Left)\n\t- apricot (Right)\n\t- cypress (Down)"
+    Italian sweet tree. I am _ _ _ _ _ _ _?\" \r\n\t- affagato (Up)\n\t- hickory (Left)\n\t-
+    apricot (Right)\n\t- cypress (Down)"
   nextStates:
   - {fileID: 11400000, guid: 2c5fb593d487d82439fbcfa208704530, type: 2}
   - {fileID: 11400000, guid: 8cb6305541247ab448eef1f9253d0c55, type: 2}

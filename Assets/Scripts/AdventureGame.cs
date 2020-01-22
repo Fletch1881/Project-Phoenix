@@ -17,6 +17,7 @@ public class AdventureGame : MonoBehaviour {
     [SerializeField] State room2T;
     [SerializeField] State room1;
     [SerializeField] State room1T;
+    [SerializeField] State victory;
 
         
     State state;
@@ -51,6 +52,14 @@ public class AdventureGame : MonoBehaviour {
         {
             state = introState;
         }
+        else if ((state == victory) && Input.GetKeyDown(KeyCode.Y))
+        {
+            state = startState;
+        }
+        else if ((state == victory) && Input.GetKeyDown(KeyCode.N))
+        {
+            state = introState;
+        }
         else if ((state == room6KeyGet) && Input.GetKeyDown(KeyCode.DownArrow))
         {
             hasSilverKey = true;
@@ -82,7 +91,7 @@ public class AdventureGame : MonoBehaviour {
             state = nextStates[2];
         }
         else
-        {
+        {         
             if (Input.GetKeyDown(KeyCode.UpArrow))
             {
                 state = nextStates[0];
@@ -103,10 +112,11 @@ public class AdventureGame : MonoBehaviour {
             {
                 state = introState;
             }
-            else if ((state == deathState) && Input.GetKeyDown(KeyCode.Y))
+            else if (Input.GetKeyDown(KeyCode.Escape))
             {
-                state = introState;
-            }
+                Application.Quit();
+            } 
+
         }
        
         textComponent.text = state.GetStateStory();

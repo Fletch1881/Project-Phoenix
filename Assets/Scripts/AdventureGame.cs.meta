@@ -3,7 +3,19 @@ guid: 29cc5779d7026934cbf6989d9170fc4a
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - textComponent: {instanceID: 0}
+  - introState: {fileID: 11400000, guid: 339e1acfc4c7233449da25136af2cf3a, type: 2}
+  - deathState: {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - startState: {fileID: 11400000, guid: 9e0edefa0a57d5f40946a24b1e3aa31f, type: 2}
+  - room6KeyGet: {fileID: 11400000, guid: ae5d1b72847b1cc45a5baf83f2ee8fcc, type: 2}
+  - miniBossKeyGet: {fileID: 11400000, guid: fe017c89580eb7c42b91409d1dec7eae, type: 2}
+  - room2: {fileID: 11400000, guid: 749706e0e6903024397f889f859f3118, type: 2}
+  - room2L: {fileID: 11400000, guid: 333c4755f8e67ce4b8e9588f22098067, type: 2}
+  - room2T: {fileID: 11400000, guid: 54b4d058d162b7340a426e96fbb84d52, type: 2}
+  - room1: {fileID: 11400000, guid: 7527e8362c989bf45b06d5af1e89c46c, type: 2}
+  - room1T: {fileID: 11400000, guid: da38729abfff44b41a0bb9b0e9654994, type: 2}
+  - victory: {fileID: 11400000, guid: 06f6d4c848d57ff488647942d9099ab0, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
