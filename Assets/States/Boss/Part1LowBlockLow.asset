@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Part1LowBlockLow
+  m_EditorClassIdentifier: 
+  storyText: "You dash past the minotaur as you slice its legs once again. Creating
+    more open wounds on the boss's legs make it roar again. Yanking its axe back out
+    of the wall, you notice the minotaur is strugling to stay standing. \r\n\t- Finish
+    the boss with a stab (Up)\r\n\t- Wait for the boss to attack (Left)\r\n\t- Rush
+    the boss (Right) \n\t- Try and get behind the boss (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 410ec0f426452244cb4caec7814140b3, type: 2}
+  - {fileID: 11400000, guid: 768e275566e469545b1cc84aa7f9eebc, type: 2}
+  - {fileID: 11400000, guid: 410ec0f426452244cb4caec7814140b3, type: 2}
+  - {fileID: 11400000, guid: bcca3bbe5f357e34e8a52ff39eaff742, type: 2}

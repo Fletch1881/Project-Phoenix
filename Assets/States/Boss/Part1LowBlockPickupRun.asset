@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Part1LowBlockPickupRun
+  m_EditorClassIdentifier: 
+  storyText: "You rush to make your way to the exit. Out of fear you close your eyes
+    for a second. Running,you open them again. You stop in shear terror when you realize
+    the minotaur is towering of you. You cannot look away from his eye but you see
+    his arms begin to move. Feeling pressure on your body you black out...\r\n\t-
+    Accept your fate (Up) \r\n\t- Accept your fate (Left) \r\n\t- Accept your fate
+    (Right) \r\n\t- Accept your fate (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}

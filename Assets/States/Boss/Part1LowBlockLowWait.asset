@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Part1LowBlockLowWait
+  m_EditorClassIdentifier: 
+  storyText: "The boss steadies itsleft and gains its balance back. It begins to charge.
+    You stand in fear as you lock eyes with it. Its axe goes up into the air as it
+    gets close and closer. Ina  blink of an eye, the axe drops to the ground and the
+    minotaur falls on the ground inches from your feet.\r\n\t- Finish the boss (Up)
+    \r\n\t- Finish the boss (Left) \n\t- Finish the boss (Right) \n\t- Finish the
+    boss (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 06f6d4c848d57ff488647942d9099ab0, type: 2}
+  - {fileID: 11400000, guid: 06f6d4c848d57ff488647942d9099ab0, type: 2}
+  - {fileID: 11400000, guid: 06f6d4c848d57ff488647942d9099ab0, type: 2}
+  - {fileID: 11400000, guid: 06f6d4c848d57ff488647942d9099ab0, type: 2}

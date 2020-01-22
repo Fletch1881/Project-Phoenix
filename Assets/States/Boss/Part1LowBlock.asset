@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Part1LowBlock
+  m_EditorClassIdentifier: 
+  storyText: "As the axe swings across your body, you stick up your sword in hopes
+    to block it. The axe hits the wall breaking your sword in half. Its axe seems
+    to be stuck in the wall for now...\r\n\t- Charge the boss (Up) \r\n\t- Slice low
+    (Left) \n\t- Slice high (Right)\r\n\t- Pick up the other half of your sword (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 3f3149c7d89481d418ceb647fa9f3217, type: 2}
+  - {fileID: 11400000, guid: 410ec0f426452244cb4caec7814140b3, type: 2}
+  - {fileID: 11400000, guid: 07bd7d3c138edc047a98d256566758e6, type: 2}
+  - {fileID: 11400000, guid: 3f3149c7d89481d418ceb647fa9f3217, type: 2}

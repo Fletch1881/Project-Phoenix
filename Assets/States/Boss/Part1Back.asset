@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Part1Back
+  m_EditorClassIdentifier: 
+  storyText: "The minotaur finally shakes loose from the wall. It picks up its axe
+    and heads towards you dragging its axe. It raises tis axe as it is getting in
+    range of you...\r\n\t- Back up and parry (Up) \n\t- Dodge left (Left) \n\t- Dodge
+    right (Right) \n\t- Back up more (Down) "
+  nextStates:
+  - {fileID: 11400000, guid: 68f2b14548e505942ac8546fc235e1bb, type: 2}
+  - {fileID: 11400000, guid: 3511db0dac5ffce4e82ca905ea1cc26d, type: 2}
+  - {fileID: 11400000, guid: 3511db0dac5ffce4e82ca905ea1cc26d, type: 2}
+  - {fileID: 11400000, guid: 07de4b3c0c2ccf1478831861c3d09e43, type: 2}

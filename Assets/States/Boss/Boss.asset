@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Boss
   m_EditorClassIdentifier: 
-  storyText: "YAY! you bet the boss. \n\n...good job...woo!\n\n\t- Press Up to restart\n"
+  storyText: "As you enter its lair, the boss swings its axe at you. You manage to
+    dodge the first attack by dropping to your knees. You can feel the force behind
+    the swing and realize one false move could mean the end. Quickly, you get on your
+    feet again. Stepping back you see a towering figure standing close by. The figure
+    is standing in the way of a brazier and you are able to make the outline of a
+    minotaur. It rears back as if about to charge...\r\n\t- Try to pierce the boss
+    (Up) \n\t- Dodge left (Left) \r\n\t- Dodge right (Right)\r\n\t- Stand your ground
+    with your sword (Down) "
   nextStates:
-  - {fileID: 11400000, guid: 339e1acfc4c7233449da25136af2cf3a, type: 2}
-  - {fileID: 11400000, guid: 339e1acfc4c7233449da25136af2cf3a, type: 2}
-  - {fileID: 11400000, guid: 339e1acfc4c7233449da25136af2cf3a, type: 2}
-  - {fileID: 11400000, guid: 339e1acfc4c7233449da25136af2cf3a, type: 2}
+  - {fileID: 11400000, guid: 348f2e16a2798bc4cb623f57a2e8d83c, type: 2}
+  - {fileID: 11400000, guid: db42d5bcfe22a3a45b8b60a436fe449f, type: 2}
+  - {fileID: 11400000, guid: db42d5bcfe22a3a45b8b60a436fe449f, type: 2}
+  - {fileID: 11400000, guid: 348f2e16a2798bc4cb623f57a2e8d83c, type: 2}

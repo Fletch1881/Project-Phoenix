@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
+  m_Name: Part1Mid
+  m_EditorClassIdentifier: 
+  storyText: "When you swing your sword into the minotaur's side, it becomes lodged
+    in there. The minotaur gets loose from the wall and looks down on you. You forcefully
+    try and pull your sword out with all of your might. The minotaur grabs your forearm
+    and lifts you off the ground. He rears back his head and slams it foreward. You
+    black out....\r\n\t- Accept your fate (Up)\n\t- Accept your fate (Left) \n\t-
+    Accept your fate (Right)\n\t- Accept your fate (Down)"
+  nextStates:
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
+  - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
