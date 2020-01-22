@@ -16,8 +16,8 @@ MonoBehaviour:
     what look like tree saplings and braziers. There is a door in front of you with
     a message on the wall next to it. You try to open the door but it is locked. There
     are stones scattered over the ground with single letters on them. You think that
-    reading the message on the wall could help.\n\t - Read message (R7 Puzzle)\n\t
-    - Go Down (R2 entering from the right)"
+    reading the message on the wall could help.\n\t - Read message (Up) \n\t - Go
+    Down"
   nextStates:
   - {fileID: 11400000, guid: 2d496e02802e4674aa6366012e9db9a9, type: 2}
   - {fileID: 11400000}

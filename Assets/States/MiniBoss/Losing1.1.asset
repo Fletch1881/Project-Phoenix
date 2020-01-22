@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "As you jump the tail, the serpent rushes towards you in the air. You
     try to use your sword to block her from biting you.\n\t- Stab the serpent throught
-    the roof of the mouth (Up)\n\t- Block vertically (Right)\n\t- Block hoizontally
-    (Left)\t\n\t- Accpet your fate  (Down)"
+    the roof of the mouth (Up)\n\t- Block vertically (Left)\n\t- Block hoizontally
+    (Right)\t\n\t- Accpet your fate  (Down)"
   nextStates:
   - {fileID: 11400000, guid: 8685f5168e466df47838f25fa4837adb, type: 2}
   - {fileID: 11400000, guid: 8685f5168e466df47838f25fa4837adb, type: 2}

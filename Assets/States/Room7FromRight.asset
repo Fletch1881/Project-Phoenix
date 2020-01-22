@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Room7FromRight
   m_EditorClassIdentifier: 
-  storyText: "The boss' laughter is growing now.\r\n\t\t- Go Up (R2 entering from
-    the right)\r\n\t\t- Go Down (R8)"
+  storyText: "The boss' laughter is growing now.\r\n\t- Go Up \r\n\t- Go Down "
   nextStates:
   - {fileID: 11400000, guid: 0edc4c3c7b1479d49bf46512216ab529, type: 2}
   - {fileID: 11400000}

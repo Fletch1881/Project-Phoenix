@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "The Boss is laughing maniacally. He states,\"Come and find me if you
     can, little one.\" The Boss then snaps his fingers and you are sent to a dark
     room. Groaning noises fill the air. Light from 4 braziers start to fill the room.
-    You see a corridor in front of you. \r\n\t - Go Up (R1)\n"
+    You see a corridor in front of you. \r\n\t - Go Up \n"
   nextStates:
   - {fileID: 11400000, guid: 7527e8362c989bf45b06d5af1e89c46c, type: 2}
   - {fileID: 11400000}

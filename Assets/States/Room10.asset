@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Room10
   m_EditorClassIdentifier: 
   storyText: "Through the doorway was a staircase. At the bottom is a doorway with
-    fog and dark green glow seeping out of it.\r\n\t\t- Go Up (R11)"
+    fog and dark green glow seeping out of it.\r\n\t- Go Up"
   nextStates:
   - {fileID: 11400000, guid: 6d79693e7a26b704e982186328959569, type: 2}
   - {fileID: 11400000}

@@ -16,7 +16,7 @@ MonoBehaviour:
     nothing, little one. Turn back while you can!\" His laughter fills the air after
     his exclamation. After walking into the room, the door behind you slams shut.
     You try to open it again to no avial. The room has only one other door. \r\n\t
-    - Go Up (R10)"
+    - Go Up "
   nextStates:
   - {fileID: 11400000, guid: f11c82f8e970f424792a6921d6f64403, type: 2}
   - {fileID: 11400000}

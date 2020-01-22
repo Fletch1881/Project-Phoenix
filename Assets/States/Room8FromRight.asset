@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room8FromRight
   m_EditorClassIdentifier: 
   storyText: "The boss begins to laugh again. Fog fills the room. Through the doorway
-    in front of you, you see a small amount of light from the braziers. \r\n\t\t-
-    Go Up (R7 entering from the right)"
+    in front of you, you see a small amount of light from the braziers. \r\n\t- Go
+    Up "
   nextStates:
   - {fileID: 11400000, guid: 4a022cd78e4053a4fabcfb7c507a6fe2, type: 2}
   - {fileID: 11400000}

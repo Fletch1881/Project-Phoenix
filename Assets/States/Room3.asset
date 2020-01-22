@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room3
   m_EditorClassIdentifier: 
   storyText: "You notice a doorway to the right and in front of you. However, the
-    doorway in front of you has been blocked off by fallen rubble of rock. \r\n\t\t-
-    Go Right (R4)\r\n\t\t- Go Down (R2 entering from the left) "
+    doorway in front of you has been blocked off by fallen rubble of rock. \r\n\t-
+    Go Right\r\n\t- Go Down "
   nextStates:
   - {fileID: 11400000}
   - {fileID: 11400000}

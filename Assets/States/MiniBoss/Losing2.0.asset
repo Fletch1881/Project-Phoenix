@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "As you try and flee, the serpent begins to constrict you. Your bretahing
     becomes harder and harder and your vision begins to fade...\n\t- Accept your fate
     (Up)\n\t- Start punching the serpents body (Left)\n\t- Contiue to head towards
-    the gate (right)\n\t- Try and slither out of its hold (Down)"
+    the gate (Right)\n\t- Try and slither out of its hold (Down)"
   nextStates:
   - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
   - {fileID: 11400000, guid: ed103a2557805bf449708507edf630e9, type: 2}

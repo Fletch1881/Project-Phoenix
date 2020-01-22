@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Room4FromTop
   m_EditorClassIdentifier: 
-  storyText: "Walking along the torn rug, you see the doorway more clearly now. \r\n\t\t-
-    Go Up (R3 entering from the top)\r\n\t\t- Go Down (R5)"
+  storyText: "Walking along the torn rug, you see the doorway more clearly now. \r\n\t-
+    Go Up \r\n\t- Go Down"
   nextStates:
   - {fileID: 11400000, guid: 690795016a809f1408570e3fffccf79b, type: 2}
   - {fileID: 11400000}

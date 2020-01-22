@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room5
   m_EditorClassIdentifier: 
   storyText: "The light is getting brighter as you are walking towards it. You are
-    beginning to make out the outline of a door frame ahead of you. \r\n\t\t- Go Up
-    (R6)\r\n\t\t- Go Down (R4 entering from the top)"
+    beginning to make out the outline of a door frame ahead of you. \r\n\t- Go Up
+    \r\n\t- Go Down"
   nextStates:
   - {fileID: 11400000, guid: ae5d1b72847b1cc45a5baf83f2ee8fcc, type: 2}
   - {fileID: 11400000}

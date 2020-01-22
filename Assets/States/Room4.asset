@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room4
   m_EditorClassIdentifier: 
   storyText: "Through the doorway is a cooridor lined with tilted paintings. A torn
-    rug leads forward until you see a bright twinkling light in the distance. \r\n\t\t-
-    Go Up (R5)\r\n\t\t- Go Down (R3 entering from the top)"
+    rug leads forward until you see a bright twinkling light in the distance. \r\n\t-
+    Go Up \r\n\t- Go Down"
   nextStates:
   - {fileID: 11400000, guid: 5658e66ce1b3597478275d9224f7d205, type: 2}
   - {fileID: 11400000}

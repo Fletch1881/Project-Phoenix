@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room8
   m_EditorClassIdentifier: 
   storyText: "Passing through the door, you can see a metal gate that used to block
-    a passageway. Its been busted down from the inside. You cautiosly approach it.\r\n\t\t-
-    Go Up (Mini Boss)\r\n\t\t- Go Down (R7 entering from the right)"
+    a passageway. Its been busted down from the inside. You cautiosly approach it.\r\n\t-
+    Go Up \n\t- Go Down "
   nextStates:
   - {fileID: 11400000, guid: 98efed949d48de54fa9aef3f5b634db4, type: 2}
   - {fileID: 11400000}
