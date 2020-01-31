@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Losing2Final
   m_EditorClassIdentifier: 
-  storyText: "Pusing on with the serpent around you. You rbody is getting weaker and
-    weaker.  Each step becomes harder and harder. You reach out in your last chance
+  storyText: "Pushing on with the serpent around you. Your body is getting weaker
+    and weaker.  Each step becomes harder and harder. You reach out in your last chance
     of hope. Just as you feel the cold touch of metal, your vision fades out...\n\t-
     Accept your fate (Up)\n\t- Accept your fate (Left)\n\t- Accept your fate (Right)\n\t-
     Accept your fate (Down)"

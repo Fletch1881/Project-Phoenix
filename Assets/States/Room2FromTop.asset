@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Four doors are in this room. One on each side of the room, including
     the one you came through. The door on the left has a silver padlock on it. It
-    seems like it needs a silver key to unlock it. \r\n\t- Go Up \r\n\t- Go Left \r\n\t-
-    Go Right \r\n\t- Go Down"
+    seems like it needs a silver key to unlock it. \r\n\t- Go Forward \r\n\t- Go Left
+    \r\n\t- Go Right \r\n\t- Go Back"
   nextStates:
   - {fileID: 11400000, guid: da38729abfff44b41a0bb9b0e9654994, type: 2}
   - {fileID: 11400000, guid: 8cb6305541247ab448eef1f9253d0c55, type: 2}

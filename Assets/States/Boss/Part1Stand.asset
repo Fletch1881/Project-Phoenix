@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Part1Stand
   m_EditorClassIdentifier: 
   storyText: "As the minoaur charges toward you, you pull out your sword and start
-    to yell. When it is about in range, it grabs your sword and throws it to the side.
-    You get stuck on the wall with its head keeping you there. As the minotaur backs
-    up, you drop to the ground feelign a whole in your left shoudler. You black out...\r\n\t-
+    to yell. When your sword is in range, it grabs it and throws it to the side. You
+    get stuck on the wall with its head keeping you there. As the minotaur backs up,
+    you drop to the ground feeling a whole in your left shoudler. You black out...\r\n\t-
     Accept your fate (Up)\n\t- Accept your fate (Left)\r\n\t- Accept your fate (Right)
     \r\n\t- Accept your fate (Down)"
   nextStates:

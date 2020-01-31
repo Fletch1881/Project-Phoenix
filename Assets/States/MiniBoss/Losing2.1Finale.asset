@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Losing2.1Finale
   m_EditorClassIdentifier: 
-  storyText: "The serpent lossens it hold on you as you begin to hurt it. You quickly
-    reach for your swrod to try adn slice the serpent. Realizing this, the serpent
+  storyText: "The serpent loosens it hold on you as you begin to hurt it. You quickly
+    reach for your sword to try and slice the serpent. Realizing this, the serpent
     quickly tightens and rushes towards you biting your shoulder. You body feels like
     its on fire and your vision fades out. \n\t- Accept your fate (Up)\n\t- Accept
     your fate (Left)\n\t- Accept your fate (Right)\n\t- Accept your fate (Down)"

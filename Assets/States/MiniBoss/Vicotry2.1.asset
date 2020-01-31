@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Vicotry2.1
   m_EditorClassIdentifier: 
   storyText: "You draw your sword and try to stab the serpent. You miss the tail as
-    it quickly draws in its tail. The serpent lashes its tail at you. \n\t- Run towards
+    it quickly draws it in. The serpent lashes its tail at you. \n\t- Run towards
     the gate (Up)\n\t- Slice the tail (Left)\n\t- Jump the tail (Right)\n\t- Accept
     your fate (Down)"
   nextStates:

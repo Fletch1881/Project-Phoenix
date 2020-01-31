@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You back up hitting the wall. Out of room, you begin to panic. As you
     are panically looking around, the minotaur swings his axe down on you. You feel
-    a sahrp pain and black out...\r\n\t- Accept your fate (Up)\n\t- Accept your fate
+    a sharp pain and black out...\r\n\t- Accept your fate (Up)\n\t- Accept your fate
     (Left)\n\t- Accept your fate (Right) \r\n\t- Accept your fate (Down)"
   nextStates:
   - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}

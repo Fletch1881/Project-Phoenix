@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Room2FromRight
   m_EditorClassIdentifier: 
   storyText: "Four doors are in this room. One on each side of the room, including
-    the one you came through. \r\n\t- Go Up \r\n\t- Go Left  \n\t- Go Right \r\n\t-
-    Go Down "
+    the one you came through. \r\n\t- Go Forward \r\n\t- Go Left  \n\t- Go Right \r\n\t-
+    Go Back"
   nextStates:
   - {fileID: 11400000, guid: b924057d04b37f949b4f2ba408bffb58, type: 2}
   - {fileID: 11400000, guid: da38729abfff44b41a0bb9b0e9654994, type: 2}

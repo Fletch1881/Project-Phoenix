@@ -23,6 +23,9 @@ MonoBehaviour:
     period, you can press ''q'' to quit the game.
 
 
+    Press any arrow key to begin!
+
+
     ...hope you enjoy!'
   nextStates:
   - {fileID: 11400000, guid: 9e0edefa0a57d5f40946a24b1e3aa31f, type: 2}

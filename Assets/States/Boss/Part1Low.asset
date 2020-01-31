@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Part1Low
   m_EditorClassIdentifier: 
   storyText: "While the boss is stuck in the wall, you slice at its legs. The boss
-    lets out a numbing roar as its legs gets cut. It gets out of the wall and turns
+    lets out a numbing roar as its legs get cut. It gets out of the wall and turns
     towards you. You notice a flicker of metal as the axe swings towards you...\r\n\t-
     Block the axe with your sword (Up)\n\t- Dodge left (Left) \n\t- Dodge right (Right)
     \ \n\t- Back up and parry (Down)"
   nextStates:
-  - {fileID: 11400000, guid: 68f2b14548e505942ac8546fc235e1bb, type: 2}
-  - {fileID: 11400000, guid: 3511db0dac5ffce4e82ca905ea1cc26d, type: 2}
-  - {fileID: 11400000, guid: 3511db0dac5ffce4e82ca905ea1cc26d, type: 2}
   - {fileID: 11400000, guid: e6b089d7303a90c4e963409679c28388, type: 2}
+  - {fileID: 11400000, guid: 3511db0dac5ffce4e82ca905ea1cc26d, type: 2}
+  - {fileID: 11400000, guid: 3511db0dac5ffce4e82ca905ea1cc26d, type: 2}
+  - {fileID: 11400000, guid: 68f2b14548e505942ac8546fc235e1bb, type: 2}

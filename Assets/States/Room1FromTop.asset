@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "After going through the door, you enter a room with strange sight. A
     gold plated door is glimmering to the left. You notice a corridor that was straight
-    ahead of the door you just came from.\r\n\t - Go Up \n\t - Go Left\r\n"
+    ahead of the door you just came from.\r\n\t - Go Forward \n\t - Go Left\r\n"
   nextStates:
   - {fileID: 11400000, guid: 749706e0e6903024397f889f859f3118, type: 2}
   - {fileID: 11400000, guid: fbccfc715dc506541ab9b05df6f6b20a, type: 2}

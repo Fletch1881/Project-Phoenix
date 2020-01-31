@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: LosingFinal
   m_EditorClassIdentifier: 
-  storyText: "As the serpants mouth clsoes in on your sword, you cut its mouth open.
-    It lets out a shreik as you feel its body get heavy on your arm. Your arm. You
+  storyText: "As the serpants mouth closes in on your sword, you cut its mouth open.
+    It lets out a shriek as you feel its body get heavy on your arm. Your arm. You
     look at your arm, realizing its teeth pierced your forearm. You look back at the
     gate reaching for it. Your vision starts to fade...\n\t- Accept your fate (Up)\n\t-
     Accept your fate (Left)\n\t- Accept your fate (Right)\n\t- Accept your fate (Down)"

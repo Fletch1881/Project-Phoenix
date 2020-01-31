@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Victory1.0
   m_EditorClassIdentifier: 
-  storyText: "You manage to catch the serpant by suprise and your arm ends up in its
+  storyText: "You manage to catch the serpent by suprise and your arm ends up in its
     mouth. You can feel the razor sharp teeth caressing your forearm as a liquid drips
-    down your arm. You look up to make eye cointact with the serpant.\n\t- Headbutt
+    down your arm. You look up to make eye contact with the serpent.\n\t- Headbutt
     it (Up)\n\t- Punch with your other arm (Left)\n\t- Draw your sword and slice (Right)\n\t-
     Draw your sword and yank your arm towards you (Down)"
   nextStates:

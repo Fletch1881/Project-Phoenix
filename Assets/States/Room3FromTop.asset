@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You notice a doorway to the right and to the left. However, the doorway
     to the right has been blocked off by fallen rubble of rock. \r\n\t- Go Left \r\n\t-
-    Go Down "
+    Go Back "
   nextStates:
   - {fileID: 11400000}
   - {fileID: 11400000, guid: 333c4755f8e67ce4b8e9588f22098067, type: 2}

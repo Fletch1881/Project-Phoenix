@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "After finishing the boss off, you pick up the other half of your sword.
     The fire from the brazier is starting to dim. You take one last look at the room
-    and sigh in relief. It is finally over. You beat eh dungeon.\r\n\t- Again? (Y)
+    and sigh in relief. It is finally over. You beat the dungeon.\r\n\t- Again? (Y)
     \r\n\t- Nope! (N)"
   nextStates:
   - {fileID: 11400000, guid: 9e0edefa0a57d5f40946a24b1e3aa31f, type: 2}

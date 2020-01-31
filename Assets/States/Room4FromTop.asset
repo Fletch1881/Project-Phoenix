@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Room4FromTop
   m_EditorClassIdentifier: 
   storyText: "Walking along the torn rug, you see the doorway more clearly now. \r\n\t-
-    Go Up \r\n\t- Go Down"
+    Go Forward \r\n\t- Go Back"
   nextStates:
   - {fileID: 11400000, guid: 690795016a809f1408570e3fffccf79b, type: 2}
   - {fileID: 11400000}

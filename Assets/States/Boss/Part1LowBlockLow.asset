@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You dash past the minotaur as you slice its legs once again. Creating
     more open wounds on the boss's legs make it roar again. Yanking its axe back out
-    of the wall, you notice the minotaur is strugling to stay standing. \r\n\t- Finish
+    of the wall, you notice the minotaur is struggling to stay standing. \r\n\t- Finish
     the boss with a stab (Up)\r\n\t- Wait for the boss to attack (Left)\r\n\t- Rush
     the boss (Right) \n\t- Try and get behind the boss (Down)"
   nextStates:

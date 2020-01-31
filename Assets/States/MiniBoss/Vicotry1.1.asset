@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Vicotry1.1
   m_EditorClassIdentifier: 
-  storyText: "You draw your sword and slice it towards the head of the serpant. The
-    serpent backs up and swings its tail towarsd you.\n\t- Charge the serpent (Up)\n\t-
+  storyText: "You draw your sword and slice it towards the head of the serpent. The
+    serpent backs up and swings its tail towards you.\n\t- Charge the serpent (Up)\n\t-
     Jump the tail (Left)\n\t- Slice right (Right)\n\t- Grab the tail (Down)"
   nextStates:
   - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}

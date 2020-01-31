@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Part1LowBlockPickupRun
   m_EditorClassIdentifier: 
   storyText: "You rush to make your way to the exit. Out of fear you close your eyes
-    for a second. Running,you open them again. You stop in shear terror when you realize
-    the minotaur is towering of you. You cannot look away from his eye but you see
-    his arms begin to move. Feeling pressure on your body you black out...\r\n\t-
+    for a second. Running, you open them again. You stop in shear terror when you
+    realize the minotaur is towering of you. You cannot look away from his eye but
+    you see his arms begin to move. Feeling pressure on your body you black out...\r\n\t-
     Accept your fate (Up) \r\n\t- Accept your fate (Left) \r\n\t- Accept your fate
     (Right) \r\n\t- Accept your fate (Down)"
   nextStates:

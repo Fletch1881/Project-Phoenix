@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You time your slice right and cut the serpents tail off. It begins to
     shriek in pain and fear as it runs into the darkness. You notice something on
-    the ground wher the serpent used to be. A gold key lays on the ground.\n\t - Pick
-    up the key and leave the room. (Up)"
+    the ground where the serpent used to be. A gold key lays on the ground.\n\t -
+    Pick up the key and leave the room. (Up)"
   nextStates:
   - {fileID: 11400000, guid: 02d72540b1fb3df42b0460a444b6a524, type: 2}
   - {fileID: 11400000}

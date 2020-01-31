@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Room12
   m_EditorClassIdentifier: 
-  storyText: "You open the door up to hear a whipping sound.\r\n\t-Go Up \r\n\t-Go
-    Down"
+  storyText: "You open the door up to hear a whipping sound.\r\n\t-Go Forward\r\n\t-Go
+    Back"
   nextStates:
   - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
   - {fileID: 11400000}

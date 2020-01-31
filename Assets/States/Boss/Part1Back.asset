@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Part1Back
   m_EditorClassIdentifier: 
   storyText: "The minotaur finally shakes loose from the wall. It picks up its axe
-    and heads towards you dragging its axe. It raises tis axe as it is getting in
+    and heads towards you dragging its axe. It raises its axe as it is getting in
     range of you...\r\n\t- Back up and parry (Up) \n\t- Dodge left (Left) \n\t- Dodge
     right (Right) \n\t- Back up more (Down) "
   nextStates:

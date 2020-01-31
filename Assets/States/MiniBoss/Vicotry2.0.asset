@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc72a5d7f5e617648a205cced7058a2a, type: 3}
   m_Name: Vicotry2.0
   m_EditorClassIdentifier: 
-  storyText: "You dodge the serpent's attack watchign its body cross before you. \n\t-
+  storyText: "You dodge the serpent's attack watching its body cross before you. \n\t-
     Draw your sword and slice (Up)\n\t- Draw your sword and stab (Left)\n\t- Grab
     its tail (Right)\n\t- Run towards the gate (Down)"
   nextStates:

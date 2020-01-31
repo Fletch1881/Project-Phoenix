@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "After making it to the bottom, you reach for the door. Opening it reveals
     a tunnel from which the fog and glow are coming from. \"Don't be scared, chosen
-    one. FACE ME!!!\", the boss shouted. \r\n\t- Go Up "
+    one. FACE ME!!!\", the boss shouted. \r\n\t- Go Forward "
   nextStates:
   - {fileID: 11400000, guid: 2276fe179ffbc064e8051ddbda0dc1d4, type: 2}
   - {fileID: 11400000}

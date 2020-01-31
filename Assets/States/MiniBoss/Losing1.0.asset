@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Losing1.0
   m_EditorClassIdentifier: 
   storyText: "With the serpent still grasping your arm, you punch the serpent hitting
-    its head mutliple times before it releases your arm. She backs up and swings her
+    its head multiple times before it releases your arm. She backs up and swings her
     tail at you.\n\t- Charge the serpent (Up)\n\t- Jump the tail (Left)\n\t- Draw
-    your sword and slice right (Right)\n\t-  Grab the tail (Down)"
+    your sword and slice right (Right)\n\t- Grab the tail (Down)"
   nextStates:
   - {fileID: 11400000, guid: 80585c73e635e274cab414cde743cbfe, type: 2}
   - {fileID: 11400000, guid: 132eb569c6884c445803d5d26e00ad79, type: 2}
